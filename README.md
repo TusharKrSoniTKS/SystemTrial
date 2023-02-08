@@ -8,3 +8,7 @@ commands that will given after this is
 new commands are not working don't know what is the error offf.....
 
 i got this yoohooo....
+
+to see the changes that occur in the master and the main branch
+
+this will be added to only the master branch
