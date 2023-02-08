@@ -17,3 +17,5 @@ trying this for the new branch
 
 somthing is goofy
 
+checking for status
+
