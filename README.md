@@ -5,4 +5,5 @@ commands that were given before
 
 commands that will given after this is 
 -- git add for pushing it to staging area
+new commands are not working don't know what is the error offf.....
 
